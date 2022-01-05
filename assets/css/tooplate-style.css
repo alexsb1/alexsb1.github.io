@@ -156,7 +156,7 @@ html {
 
 .menu .author-content h4 {
     margin-bottom: 0px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 
 .menu .author-content span {
@@ -340,7 +340,7 @@ html {
     font-size: 14px;
     font-weight: 800;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     transition: all 0.5s;
 }
 
