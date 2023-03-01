@@ -338,7 +338,7 @@ html {
 .white-button a {
     display: inline-block;
     padding: 12px 22px;
-    background-color: #4AA0DD;
+    background-color: #2279BD;
     color: #FFF;
     font-size: 14px;
     font-weight: 800;
@@ -348,7 +348,7 @@ html {
 }
 
 .white-button a:hover {
-    background-color: #2279BD;
+    background-color: #4AA0DD;
     color: #FFF;
 }
 
