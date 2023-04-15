@@ -303,7 +303,7 @@ html {
     right: 10%;
     left: 35%;
     position: relative;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     padding-bottom: 60px;
     border-bottom: 3px solid rgba(0, 0, 0, 0.25);
 }
@@ -373,6 +373,16 @@ button:hover {
     color: #000;
 }
 
+/* Custom styles */
+.about-me{
+	width: 50%;
+	float: left;
+	padding: 10px;
+}
+
+.about-me img{
+		border-radius: 10px;
+}
 
 /* Left & Right Post */
 
@@ -385,6 +395,13 @@ button:hover {
 .left-image img,
 .right-image img {
     border-radius: 5px;
+}
+
+
+.right-image-head{
+	width: 50%;
+	-ms-flex-align: left;
+    align-items: left;
 }
 
 .right-image-post h4,
